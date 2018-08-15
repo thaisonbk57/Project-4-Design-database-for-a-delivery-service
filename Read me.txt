@@ -1,0 +1,3 @@
+-- project_4.sql : open and run this file to initiate the database.
+
+-- queries.sql : some pre-defined queries to access data in the database.
